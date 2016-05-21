@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachmentModify", "AttachmentModify\AttachmentModify.csproj", "{F5B9E678-BCEC-419B-B7CD-998FA650DD92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91BBA77F-5CB0-41B6-808B-6C010215FCAE}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{5804763D-FFAF-4100-B76A-8B7B1C20DF64}"
+	ProjectSection(SolutionItems) = preProject
+		Add-TransportAgent.ps1 = Add-TransportAgent.ps1
+		Build-DeploymentPackage.ps1 = Build-DeploymentPackage.ps1
+		deployment-config.xml = deployment-config.xml
+		install.ps1 = install.ps1
+		Remove-TransportAgent.ps1 = Remove-TransportAgent.ps1
+		uninstall.ps1 = uninstall.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B9E678-BCEC-419B-B7CD-998FA650DD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B9E678-BCEC-419B-B7CD-998FA650DD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B9E678-BCEC-419B-B7CD-998FA650DD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B9E678-BCEC-419B-B7CD-998FA650DD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

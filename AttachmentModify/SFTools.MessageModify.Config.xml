@@ -1,0 +1,13 @@
+﻿<config>
+  <!-- 
+  Configured email addresses for the Attachement Modify Transport 
+  -->
+  <!--
+    Example: 
+    <domain name="email@domain.com" address="email@domain.com" />
+    
+    Note:
+    Both per line both email addresses must be the same
+  -->
+  <domain name="sap@icomcept.de" address="sap@icomcept.de" />
+</config>
