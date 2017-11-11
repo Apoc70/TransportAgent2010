@@ -11,9 +11,6 @@
 
     Please send ideas, comments and suggestions to support@granikos.eu 
 
-    .LINK 
-    More information can be found at http://www.sf-tools.net/Messaging/ExchangeServer2010/TransportAgent/tabid/146/Default.aspx
-
     .DESCRIPTION 
     This script installs a transport agent on a local Exchange Server 2010. 
     The C# example code can be found at http://www.sf-tools.net/Messaging/ExchangeServer2010/TransportAgent/tabid/146/Default.aspx 
